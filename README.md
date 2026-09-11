@@ -9,5 +9,5 @@ N/A
 
 ## Verbal Collaboration
 - **Full Name:** `Jason Tse`, **CCID**: `jtse1`
-- **Full Name:** `Wesley Willian Supangat`, **CCID**: `supangat`
+- **Full Name:** `Wesley William Supangat`, **CCID**: `supangat`
   
