@@ -8,5 +8,5 @@
 N/A
 
 ## Verbal Collaboration
-- **Name:** 'Jason Tse', **CCID**: 'jtse1'
+- **Name:** '$${\color{lightgrey}Jason Tse$$', **CCID**: 'jtse1'
 - **Name:** 'Wesley Willian Supangat', **CCID:** 'supangat'
