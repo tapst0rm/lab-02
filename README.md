@@ -8,6 +8,5 @@
 N/A
 
 ## Verbal Collaboration
-N/A
-Name: Jason Tse, CCID: jtse1
-Name: Wesley Willian Supangat, CCID: supangat
+- **Name:** 'Jason Tse', **CCID**: 'jtse1'
+- **Name:** 'Wesley Willian Supangat', **CCID:** 'supangat'
